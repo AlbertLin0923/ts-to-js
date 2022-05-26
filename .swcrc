@@ -12,7 +12,8 @@
       "dynamicImport": false
     },
     "target": "es2016",
-    "loose": true
+    "loose": true,
+    "externalHelpers": true
   },
   "module": {
     "type": "es6",

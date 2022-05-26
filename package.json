@@ -24,5 +24,8 @@
     "browserslist": "^4.20.3",
     "esbuild": "^0.14.39",
     "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "@swc/helpers": "^0.3.15"
   }
 }
